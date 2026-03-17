@@ -1,1 +1,22 @@
 .venv
+/datasets/SceneTrialTrain
+icdar2003.zip
+
+# Data artifacts
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Training and inference outputs
+runs/
+yolo_data/
+cropped_text/
+*.pt
+
+# Notebook/cache noise
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+/notebooks

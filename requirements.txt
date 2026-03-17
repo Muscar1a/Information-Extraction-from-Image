@@ -1,0 +1,15 @@
+ultralytics
+easyocr
+Levenshtein
+timm
+torch
+torchvision
+numpy
+opencv-python
+Pillow
+scikit-learn
+matplotlib
+PyYAML
+transformers
+pandas
+gdown
